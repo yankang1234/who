@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "ddl-demo",
+=======
+  "name": "test",
+>>>>>>> c3cf416429a674607d4b9c62205ff3b86569a403
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
